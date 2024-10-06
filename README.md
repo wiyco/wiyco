@@ -1,4 +1,4 @@
-# Stats
+## Stats
 
 <section>
   <!-- GitHub Stats -->
@@ -18,7 +18,7 @@
   </picture>
 </section>
 
-# Templates
+## Templates
 
 <section>
   <a href="https://github.com/wiyco/next-template">
@@ -51,7 +51,7 @@
   </a>
 </section>
 
-# Contributions
+## Contributions
 
 <section>
   <a href="https://github.com/yamada-ui/yamada-ui">
@@ -84,6 +84,6 @@
   </a>
 </section>
 
-# More
+## More
 
 - https://wiyco.dev
