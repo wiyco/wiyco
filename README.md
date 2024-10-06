@@ -1,22 +1,32 @@
 ## Stats
 
-<section>
-  <!-- GitHub Stats -->
-  <picture>
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=wiyco&custom_title=GitHub%20Stats&hide_rank=true&show_icons=true&hide=commits,prs,issues,contribs&text_bold=false&border_radius=12&theme=dark"
-      height=200
-      width=300
-    />
-  </picture>
-  <!-- Top Langs -->
-  <picture>
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=wiyco&layout=compact&hide_progress=true&langs_count=10&hide=jupyter%20notebook,javascript,html,css,objective-c,mathematica,shaderlab,hlsl&border_radius=12&theme=dark"
-      height=200
-    />
-  </picture>
-</section>
+<table>
+  <tr>
+    <td valign="center">
+      <!-- GitHub Stats -->
+      <picture>
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=wiyco&custom_title=GitHub%20Stats&hide_rank=true&show_icons=true&hide=commits,prs,issues,contribs&text_bold=false&card_width=400px&border_radius=12&theme=dark"
+        />
+      </picture>
+      <!-- Top Langs -->
+      <picture>
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs?username=wiyco&layout=compact&hide_progress=true&langs_count=10&hide=jupyter%20notebook,javascript,html,css,objective-c,mathematica,shaderlab,hlsl&card_width=400px&border_radius=12&theme=dark"
+        />
+      </picture>
+    </td>
+    <!-- Icon -->
+    <td valign="center">
+      <picture>
+        <img
+          src="./assets/wiyco-icon.png"
+          width=400
+        />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 ## Templates
 
@@ -57,28 +67,28 @@
   <a href="https://github.com/yamada-ui/yamada-ui">
     <picture>
       <img
-        src="https://github-readme-stats.vercel.app/api/pin?username=yamada-ui&repo=yamada-ui&description_lines_count=1&border_radius=12&theme=dark"
+        src="https://github-readme-stats.vercel.app/api/pin?username=yamada-ui&repo=yamada-ui&show_owner=true&description_lines_count=1&border_radius=12&theme=dark"
       />
     </picture>
   </a>
   <a href="https://github.com/nextui-org/nextui">
     <picture>
       <img
-        src="https://github-readme-stats.vercel.app/api/pin?username=nextui-org&repo=nextui&description_lines_count=1&border_radius=12&theme=dark"
+        src="https://github-readme-stats.vercel.app/api/pin?username=nextui-org&repo=nextui&show_owner=true&description_lines_count=1&border_radius=12&theme=dark"
       />
     </picture>
   </a>
   <a href="https://github.com/jesper-lindberg/Awake">
     <picture>
       <img
-        src="https://github-readme-stats.vercel.app/api/pin?username=jesper-lindberg&repo=Awake&description_lines_count=1&border_radius=12&theme=dark"
+        src="https://github-readme-stats.vercel.app/api/pin?username=jesper-lindberg&repo=Awake&show_owner=true&description_lines_count=1&border_radius=12&theme=dark"
       />
     </picture>
   </a>
   <a href="https://github.com/ytdl-org/youtube-dl/pull/30366#discussion_r770144843">
     <picture>
       <img
-        src="https://github-readme-stats.vercel.app/api/pin?username=ytdl-org&repo=youtube-dl&description_lines_count=1&border_radius=12&theme=dark"
+        src="https://github-readme-stats.vercel.app/api/pin?username=ytdl-org&repo=youtube-dl&show_owner=true&description_lines_count=1&border_radius=12&theme=dark"
       />
     </picture>
   </a>
