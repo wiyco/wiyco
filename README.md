@@ -6,6 +6,7 @@
     <img
       src="https://github-readme-stats.vercel.app/api?username=wiyco&custom_title=GitHub%20Stats&hide_rank=true&show_icons=true&hide=commits,prs,issues,contribs&text_bold=false&border_radius=12&theme=dark"
       height=200
+      width=300
     />
   </picture>
   <!-- Top Langs -->
