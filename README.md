@@ -6,24 +6,26 @@
       <!-- GitHub Stats -->
       <picture>
         <img
-          src="https://github-readme-stats.vercel.app/api?username=wiyco&custom_title=GitHub%20Stats&hide_rank=true&show_icons=true&hide=commits,prs,issues,contribs&text_bold=false&card_width=400px&border_radius=12&theme=dark"
+          src="https://github-readme-stats.vercel.app/api?username=wiyco&custom_title=GitHub%20Stats&hide_rank=true&show_icons=true&hide=commits,prs,issues,contribs&text_bold=false&card_width=400px&disable_animations=true&border_radius=12&theme=dark"
         />
       </picture>
       <!-- Top Langs -->
       <picture>
         <img
-          src="https://github-readme-stats.vercel.app/api/top-langs?username=wiyco&layout=compact&hide_progress=true&langs_count=10&hide=jupyter%20notebook,javascript,html,css,objective-c,mathematica,shaderlab,hlsl&card_width=400px&border_radius=12&theme=dark"
+          src="https://github-readme-stats.vercel.app/api/top-langs?username=wiyco&layout=compact&hide_progress=true&langs_count=10&hide=jupyter%20notebook,javascript,html,css,objective-c,mathematica,shaderlab,hlsl&card_width=400px&disable_animations=true&border_radius=12&theme=dark"
         />
       </picture>
     </td>
     <!-- Icon -->
     <td valign="center">
-      <picture>
-        <img
-          src="./assets/wiyco-icon.png"
-          width=400
-        />
-      </picture>
+      <a href="https://github.com/wiyco/profile/blob/develop/public/icon.svg?short_path=ca36c09">
+        <picture>
+          <img
+            src="./assets/wiyco-icon.png"
+            width=400
+          />
+        </picture>
+      </a>
     </td>
   </tr>
 </table>
