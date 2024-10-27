@@ -106,3 +106,7 @@
 ## More
 
 - https://wiyco.dev
+
+### Latest coding practices
+
+- https://github.com/wiyco/share
