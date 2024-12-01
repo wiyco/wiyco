@@ -109,5 +109,5 @@
 
 ### Latest coding practices
 
-- https://github.com/wiyco/share
 - https://github.com/iputapp/website
+- https://github.com/wiyco/share
