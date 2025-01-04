@@ -18,10 +18,10 @@
     </td>
     <!-- Icon -->
     <td valign="center">
-      <a href="https://github.com/wiyco/profile/blob/develop/public/icon.svg?short_path=ca36c09">
+      <a href="https://github.com/wiyco/profile/blob/develop/public/favicon.svg">
         <picture>
           <img
-            src="./assets/wiyco-icon.png"
+            src="https://raw.githubusercontent.com/wiyco/profile/develop/public/apple-touch-startup-image.png"
             width=400
           />
         </picture>
