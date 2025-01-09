@@ -106,8 +106,3 @@
 ## More
 
 - https://wiyco.dev
-
-### Latest coding practices
-
-- https://github.com/iputapp/website
-- https://github.com/wiyco/share
