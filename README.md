@@ -40,10 +40,10 @@
       />
     </picture>
   </a>
-  <a href="https://github.com/wiyco/flutter_template">
+  <a href="https://github.com/wiyco/react-router-template">
     <picture>
       <img
-        src="https://github-readme-stats.vercel.app/api/pin?username=wiyco&repo=flutter_template&description_lines_count=1&border_radius=12&theme=dark&icon_color=60a5fa"
+        src="https://github-readme-stats.vercel.app/api/pin?username=wiyco&repo=react-router-template&description_lines_count=1&border_radius=12&theme=dark&icon_color=60a5fa"
       />
     </picture>
   </a>
@@ -54,10 +54,10 @@
       />
     </picture>
   </a>
-  <a href="https://github.com/wiyco/remix-template">
+  <a href="https://github.com/wiyco/flutter_template">
     <picture>
       <img
-        src="https://github-readme-stats.vercel.app/api/pin?username=wiyco&repo=remix-template&description_lines_count=1&border_radius=12&theme=dark&icon_color=60a5fa"
+        src="https://github-readme-stats.vercel.app/api/pin?username=wiyco&repo=flutter_template&description_lines_count=1&border_radius=12&theme=dark&icon_color=60a5fa"
       />
     </picture>
   </a>
