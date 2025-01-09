@@ -106,3 +106,4 @@
 ## More
 
 - https://wiyco.dev
+- https://zenn.dev/wiyco
