@@ -8,5 +8,5 @@
 
 ## More About Me
 
-- https://wiyco.dev
-- https://zenn.dev/wiyco
+- Notebook: https://wiyco.dev
+- Tech Blog: https://zenn.dev/wiyco
