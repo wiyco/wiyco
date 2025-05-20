@@ -3,7 +3,7 @@
 - Web Development (Full Stack)
 - Cryptography & Security
 - Data Analytics (Exploring Value Creation)
-- Community Management
+- Communication & Team Management
 - 0 to 1 to ∞ (Note: From Launch to Scale)
 
 ## Certifications
